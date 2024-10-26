@@ -1,0 +1,12 @@
+[
+  {
+    "customer": "C2000",
+    "flow": "F2000",
+    "session": "S3000",
+    "timestamp": "2019-12-16T14:00:01",
+    "content": {
+      "recomenda": "Simmmmmmm",
+      "nota": "9"
+    }
+  }
+]

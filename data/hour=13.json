@@ -1,0 +1,24 @@
+[
+  {
+    "customer": "C1000",
+    "flow": "F1000",
+    "session": "S1000",
+    "timestamp": "2019-12-16T13:59:58",
+    "content": {
+      "name": "maria",
+      "cpf": "305.584.960-40",
+      "delivery_confirmed": "true"
+    }
+  },
+  {
+    "customer": "C1000",
+    "flow": "F1000",
+    "session": "S2000",
+    "timestamp": "2019-12-16T13:59:59",
+    "content": {
+      "name": "joao",
+      "cpf": "733.600.420-26",
+      "delivery_confirmed": "false"
+    }
+  }
+]
